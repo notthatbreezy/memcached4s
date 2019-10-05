@@ -1,0 +1,3 @@
+Benchmark                          Mode  Cnt      Score      Error  Units
+StringGetBenchmark.clientGet      thrpt    5   5418.987 ± 4768.771  ops/s
+StringGetBenchmark.scalacacheGet  thrpt    5  11670.576 ± 8121.650  ops/s
